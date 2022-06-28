@@ -40,7 +40,7 @@ function orbs() {
     this.state_url [1] = 'Images/orbs_activated.png';
 }
 
-
+//hi
 function prints() {
     this.state = 0;
     this.state_url = [];
